@@ -1,10 +1,5 @@
 {
   "redirects": [
-    { "source": "/conservation", "destination": "https://conservation.endhonesa.com/", "statusCode": 301 }
-  ]
-},
-{
-  "redirects": [
     { "source": "/conservation/", "destination": "https://conservation.endhonesa.com/", "statusCode": 301 }
   ]
 }
