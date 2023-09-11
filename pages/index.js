@@ -37,7 +37,7 @@ export default function Home() {
           </a>
         </p>
 
-        <div className={styles.social}>
+        <social>
           <a
             href="https://twitter.com/MyReceiptTT"
             target="_blank"
@@ -59,7 +59,7 @@ export default function Home() {
           >
             <img src="/instagram.svg" alt="Prof. NOTA v.1.47" className={styles.icon} />
           </a>&nbsp;
-        </div>
+        </social>
 
         <div className={styles.grid}>
           <a
@@ -205,7 +205,7 @@ export default function Home() {
 
       <style jsx>{`
         main {
-          padding: 4.7rem 0;
+          padding: 4.7rem 0 1.47rem 0;
           flex: 1;
           display: flex;
           flex-direction: column;
@@ -214,9 +214,6 @@ export default function Home() {
         }
 
         social {
-          width: 100%;
-          height: 100px;
-          border-top: 1px solid #eaeaea;
           display: flex;
           justify-content: center;
           align-items: center;
@@ -228,6 +225,17 @@ export default function Home() {
           display: flex;
           justify-content: center;
           align-items: center;
+          font-size: x-small;
+        }
+        @media (min-width: 425px) {
+          footer {
+            font-size: small;
+          }
+        }
+        @media (min-width: 640px) {
+          footer {
+            font-size: medium;
+          }
         }
         footer img {
           margin-left: 0.5rem;
@@ -239,6 +247,10 @@ export default function Home() {
           align-items: center;
           text-decoration: none;
           color: inherit;
+        }
+        footer a:hover {
+          color: yellow;
+          text-decoration: underline;
         }
         code {
           background: #fafafa;
