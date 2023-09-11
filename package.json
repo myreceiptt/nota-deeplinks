@@ -1,0 +1,27 @@
+{
+  "name": "deeplinks",
+  "version": "1.4.7",
+  "description": "Prof. NOTA's Deep Links",
+  "keywords": [],
+  "author": "Prof. NOTA",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myreceiptt/nota-deeplinks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myreceiptt/nota-deeplinks/issues"
+  },
+  "homepage": "https://github.com/myreceiptt/nota-deeplinks#readme",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
