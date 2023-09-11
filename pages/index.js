@@ -16,7 +16,7 @@ export default function Home() {
         <meta name="author" content="! Prof. NOTA !" />
         <meta
           name="keywords"
-          content="prof nota, uncertified professor, my receipt, myreceipt, blockchain, web3, smart contract, retired developer, non-fungible token, nonfungible token, nft, ethereum, polygon, tezos, solana, bitcoin,"
+          content="the melting land, linktree, prof. nota, uncertified professor, my receipt, myreceipt, blockchain, web3, smart contract, retired developer, non-fungible token, nonfungible token, nft, ethereum, polygon, tezos, solana, bitcoin,"
         />
         
       </Head>
