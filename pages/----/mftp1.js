@@ -5,48 +5,48 @@ export default function Redirect() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Me in My Campus - Deep Links Redirection</title>
+        <title>Me for The Profit - Deep Links Redirection</title>
         <link rel="icon" href="/1.47.png" />
         <link rel="apple-touch-icon" href="/1.47.png" />
         <link rel="shortcut icon" href="/1.47.png" />
         <meta
           name="description"
-          content="Nah, tugas kita adalah mendesain bentuk dan banyaknya udara yang dikompresikan, sehingga dapat mencapai target yang telah ditetapkan panitia, ujar Afietadi atau yang lebih akrab dipanggil Mamak."
+          content="Jumlah modul bisnis yang diperoleh user sebanyak 20 modul bisnis, sama dengan user yang memainkan The Pofit melalui smatphone, jelas Digital Marketing The Profit, Afietadi Kurniawan."
         />
         <meta name="author" content="! Prof. NOTA !" />
         <meta
           name="keywords"
           content="the melting land, linktree, prof. nota, uncertified professor, my receipt, myreceipt, blockchain, web3, smart contract, retired developer, non-fungible token, nonfungible token, nft, ethereum, polygon, tezos, solana, bitcoin,"
         />
-        <meta httpEquiv="Refresh" content="7; url='https://www.its.ac.id/news/2005/03/15/tim-wrc-2004-d3-mesin-its-dapat-standing-appaluse-usai-peluncuran/#:~:text=Nah%2C%20tugas%20kita%20adalah%20mendesain%20bentuk%20dan%20banyaknya%20udara%20yang%20dikompresikan%2C%20sehingga%20dapat%20mencapai%20target%20yang%20telah%20ditetapkan%20panitia%2C%22%20ujar%20Afietadi%20atau%20yang%20lebih%20akrab%20dipanggil%20Mamak.'" />
+        <meta httpEquiv="Refresh" content="7; url='https://beritametro.id/story/the-profit-versi-desktop-segera-diluncurkan#:~:text=Jumlah%20modul%20bisnis%20yang%20diperoleh%20user%20sebanyak%2020%20modul%20bisnis%2C%20sama%20dengan%20user%20yang%20memainkan%20The%20Pofit%20melalui%20smatphone%2C%E2%80%9D%20jelas%20Digital%20Marketing%20The%20Profit%2C%20Afietadi%20Kurniawan.'" />
         <meta name="robots" content="noindex,nofollow" />
         
       </Head>
 
       <main>
         <h1 className={styles.title}>
-          Me in My Campus
+          Me for The Profit
         </h1>
 
         <p className={styles.description}>
           Redirecting to:<br />
-          <a href="https://www.its.ac.id/news/2005/03/15/tim-wrc-2004-d3-mesin-its-dapat-standing-appaluse-usai-peluncuran/#:~:text=Nah%2C%20tugas%20kita%20adalah%20mendesain%20bentuk%20dan%20banyaknya%20udara%20yang%20dikompresikan%2C%20sehingga%20dapat%20mencapai%20target%20yang%20telah%20ditetapkan%20panitia%2C%22%20ujar%20Afietadi%20atau%20yang%20lebih%20akrab%20dipanggil%20Mamak." target="_blank">
-            Tim WRC 2004 D3 Mesin ITS, Dapat Standing Applause Usai Peluncuran
+          <a href="https://beritametro.id/story/the-profit-versi-desktop-segera-diluncurkan#:~:text=Jumlah%20modul%20bisnis%20yang%20diperoleh%20user%20sebanyak%2020%20modul%20bisnis%2C%20sama%20dengan%20user%20yang%20memainkan%20The%20Pofit%20melalui%20smatphone%2C%E2%80%9D%20jelas%20Digital%20Marketing%20The%20Profit%2C%20Afietadi%20Kurniawan." target="_blank">
+            The Profit versi Desktop Segera Diluncurkan
           </a>
         </p>
 
         <social>
-          <code>its.ac.id</code>
+          <code>beritametro.id</code>
         </social>
 
         <div className={styles.grid}>
           <a
-            href="https://www.its.ac.id/news/2005/03/15/tim-wrc-2004-d3-mesin-its-dapat-standing-appaluse-usai-peluncuran/#:~:text=Nah%2C%20tugas%20kita%20adalah%20mendesain%20bentuk%20dan%20banyaknya%20udara%20yang%20dikompresikan%2C%20sehingga%20dapat%20mencapai%20target%20yang%20telah%20ditetapkan%20panitia%2C%22%20ujar%20Afietadi%20atau%20yang%20lebih%20akrab%20dipanggil%20Mamak."
+            href="https://beritametro.id/story/the-profit-versi-desktop-segera-diluncurkan#:~:text=Jumlah%20modul%20bisnis%20yang%20diperoleh%20user%20sebanyak%2020%20modul%20bisnis%2C%20sama%20dengan%20user%20yang%20memainkan%20The%20Pofit%20melalui%20smatphone%2C%E2%80%9D%20jelas%20Digital%20Marketing%20The%20Profit%2C%20Afietadi%20Kurniawan."
             className={styles.card}
             target="_blank"
           >
-            <h3>Tim WRC 2004... &rarr;</h3>
-            <p>"...sehingga dapat mencapai target yang telah ditetapkan panitia," ujar Afietadi atau yang lebih akrab dipanggil Mamak.</p>
+            <h3>The Profit versi... &rarr;</h3>
+            <p>"...sama dengan user yang memainkan The Pofit melalui smatphone," jelas Digital Marketing The Profit, Afietadi Kurniawan.</p>
           </a>
         </div>
       </main>
