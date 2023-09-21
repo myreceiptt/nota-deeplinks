@@ -63,6 +63,22 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
+            href="https"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>deTH wiSH in Vision Trip (PFP) &rarr;</h3>
+          </a>
+
+          <a
+            href="https"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>deTH wiSH in Vision Trip (OE) &rarr;</h3>
+          </a>
+
+          <a
             href="https://generative.xyz/generative/1002498"
             className={styles.card}
             target="_blank"
