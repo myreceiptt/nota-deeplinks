@@ -63,21 +63,21 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https"
+            href="https://opensea.io/collection/deth-wish-in-vision-trip/drop?tab=mint"
             className={styles.card}
             target="_blank"
           >
             <h3>deTH wiSH in Vision Trip (PFP) &rarr;</h3>
-            <p>...</p>
+            <p>Visible or not, there is always a /ˈdeTH ˌwiSH/ in their minds. (13_!)</p>
           </a>
 
           <a
-            href="https"
+            href="https://foundation.app/collection/dwvt-03ba"
             className={styles.card}
             target="_blank"
           >
             <h3>deTH wiSH in Vision Trip (OE) &rarr;</h3>
-            <p>...</p>
+            <p>An opening artwork released as 7-day open editions NFT just for you. (13_!)</p>
           </a>
 
           <a
