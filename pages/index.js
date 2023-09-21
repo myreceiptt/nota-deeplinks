@@ -68,6 +68,7 @@ export default function Home() {
             target="_blank"
           >
             <h3>deTH wiSH in Vision Trip (PFP) &rarr;</h3>
+            <p>...</p>
           </a>
 
           <a
@@ -76,6 +77,7 @@ export default function Home() {
             target="_blank"
           >
             <h3>deTH wiSH in Vision Trip (OE) &rarr;</h3>
+            <p>...</p>
           </a>
 
           <a
