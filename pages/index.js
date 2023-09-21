@@ -67,7 +67,7 @@ export default function Home() {
             className={styles.card}
             target="_blank"
           >
-            <h3>deTH wiSH in Vision Trip (PFP) &rarr;</h3>
+            <h3>2nd /ˈdeTH ˌwiSH/ (PFP Drop) &rarr;</h3>
             <p>Visible or not, there is always a /ˈdeTH ˌwiSH/ in their minds. (13_!)</p>
           </a>
 
@@ -76,7 +76,7 @@ export default function Home() {
             className={styles.card}
             target="_blank"
           >
-            <h3>deTH wiSH in Vision Trip (OE) &rarr;</h3>
+            <h3>2nd /ˈdeTH ˌwiSH/ (7-day OE) &rarr;</h3>
             <p>An opening artwork released as 7-day open editions NFT just for you. (13_!)</p>
           </a>
 
