@@ -72,12 +72,12 @@ export default function Home() {
           </a>
 
           <a
-            href="https://foundation.app/collection/dwvt-03ba"
+            href="https://heartx.art/artwork/2003928"
             className={styles.card}
             target="_blank"
           >
-            <h3>2nd /ˈdeTH ˌwiSH/ (7-day OE) &rarr;</h3>
-            <p>An opening artwork released as 7-day open editions NFT just for you. (13_!)</p>
+            <h3>2nd /ˈdeTH ˌwiSH/ on HeartX &rarr;</h3>
+            <p>An opening artwork released as 1/1 NFT on HeartX just for you. (13_!)</p>
           </a>
 
           <a
