@@ -95,7 +95,7 @@ export default function Home() {
             target="_blank"
           >
             <h3>NOTA&#39;s SVGs Free &rarr;</h3>
-            <p>NOTA's SVGs is very limited, only seven items with different colors. (17_!)</p>
+            <p>NOTA's SVGs are very limited, only seven items with different colors. (17_!)</p>
           </a>
 
           <a
@@ -132,7 +132,7 @@ export default function Home() {
             target="_blank"
           >
             <h3>OFFICIALLY UNREVEALED &rarr;</h3>
-            <p>Stay unrevealed, stay under the hood, always use your pseudonymous mask. (20_!)</p>
+            <p>Stay unrevealed, stay under the hood, and always use your pseudonymous mask. (20_!)</p>
           </a>
 
           <a
@@ -195,7 +195,7 @@ export default function Home() {
             target="_blank"
           >
             <h3>Breads Factory Logo &rarr;</h3>
-            <p>May you be the lucky ones, you get Her rarest asssets. It's up to you! (43_!)</p>
+            <p>May you be the lucky ones, you get Her rarest assets. It's up to you! (43_!)</p>
           </a>
           
           <a
