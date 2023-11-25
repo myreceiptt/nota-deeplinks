@@ -98,17 +98,17 @@ export default function Home() {
             <p>NOTA's SVGs are very limited, only seven items with different colors. (17_!)</p>
           </a>
 
-          {/* <a
+          <a
             href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/18.-my-receipt-of-xtz"
             className={styles.card}
             target="_blank"
           >
             <h3>MY RECEIPT of XTZ &rarr;</h3>
             <p>This collection only contains open-edition Tezos NFTs by Prof. NOTA. (18)</p>
-          </a> */}
+          </a>
 
           <a
-            href="https://foundation.app/collection/panthera-leo"
+            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/19.-panthera-leo"
             className={styles.card}
             target="_blank"
           >
@@ -145,7 +145,7 @@ export default function Home() {
           </a>
           
           {/* <a
-            href="https://heads.bananow.land/"
+            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/22.-bananow-nfts"
             className={styles.card}
             target="_blank"
           >
@@ -154,7 +154,7 @@ export default function Home() {
           </a> */}
 
           <a
-            href="https://conservation.endhonesa.com/"
+            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/24.-conserve-roty-broi"
             className={styles.card}
             target="_blank"
           >
@@ -163,34 +163,25 @@ export default function Home() {
           </a>
 
           <a
-            href="https://objkt.com/asset/KT1X3hLhhmLXZh89seeakhCy4bEsnhDhupPc/13"
+            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/30.-impromptu"
             className={styles.card}
             target="_blank"
           >
-            <h3>SOCIETTY IS A SCAM &rarr;</h3>
-            <p>Read it!!!! What if SOCIETY in your reality, your real life is a SCAM? (30_!!)</p>
-          </a>
-
-          <a
-            href="https://objkt.com/asset/KT1X3hLhhmLXZh89seeakhCy4bEsnhDhupPc/12"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Sperm Scammer &rarr;</h3>
-            <p>There is sperm theft in your reality, your real life. It Sperm Scammer. (30_!!)</p>
+            <h3>! IMPROMPTU ! NFTs &rarr;</h3>
+            <p>A collection that contains impromptu collaborative work with Humans and A.I. (30_!!)</p>
           </a>
           
-          {/* <a
+          <a
             href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/31.-0101-of-prof.-nota"
             className={styles.card}
             target="_blank"
           >
             <h3>0101 of Prof. NOTA &rarr;</h3>
             <p>This 0101 of Prof. NOTA will contain ONE-on-ONE artworks by Prof. NOTA. (31)</p>
-          </a> */}
+          </a>
           
           <a
-            href="https://rotilogo.endhonesa.com/"
+            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/43.-logo-pabrik-roti"
             className={styles.card}
             target="_blank"
           >
@@ -205,6 +196,15 @@ export default function Home() {
           >
             <h3>WAIVFVES #1 Mapping &rarr;</h3>
             <p>All the information about the creations in WAIVFVES #1 of The KING's NFTs.</p>
+          </a>
+          
+          <a
+            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-2"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>WAIVFVES #2 Mapping &rarr;</h3>
+            <p>All the information about the creations in WAIVFVES #2 of The KING's NFTs.</p>
           </a>
         </div>
       </main>
