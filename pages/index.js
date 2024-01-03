@@ -18,7 +18,6 @@ export default function Home() {
           name="keywords"
           content="the melting land, linktree, prof. nota, uncertified professor, my receipt, myreceipt, blockchain, web3, smart contract, retired developer, non-fungible token, nonfungible token, nft, ethereum, polygon, tezos, solana, bitcoin,"
         />
-        
       </Head>
 
       <main>
@@ -32,7 +31,10 @@ export default function Home() {
 
         <p className={styles.description}>
           The Initiator of{" "}
-          <a href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/48.-init...-_" target="_blank">
+          <a
+            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/48.-init...-_"
+            target="_blank"
+          >
             The Melting Land
           </a>
         </p>
@@ -43,32 +45,74 @@ export default function Home() {
             target="_blank"
             title="Go visit @MyReceiptTT, Prof. NOTA's Twitter account."
           >
-            <img src="/twitter.svg" alt="Prof. NOTA v.1.47" className={styles.icon} />
-          </a>&nbsp;
+            <img
+              src="/twitter.svg"
+              alt="Prof. NOTA v.1.47"
+              className={styles.icon}
+            />
+          </a>
+          &nbsp;
           <a
-            href="https://api.whatsapp.com/send?phone=628563160756&amp;text=Hi%20Prof.%20NOTA!!!!%0A%F0%9F%A4%AB%F0%9F%A4%AB%F0%9F%A4%AB%F0%9F%A4%AB%20Shush%2C%20I%20need%20to%20talk%20with%20you!%20Okay!" 
+            href="https://api.whatsapp.com/send?phone=628563160756&amp;text=Hi%20Prof.%20NOTA!!!!%0A%F0%9F%A4%AB%F0%9F%A4%AB%F0%9F%A4%AB%F0%9F%A4%AB%20Shush%2C%20I%20need%20to%20talk%20with%20you!%20Okay!"
             target="_blank"
             title="Go contact Prof. NOTA's Whatsapp account."
           >
-            <img src="/whatsapp.svg" alt="Prof. NOTA v.1.47" className={styles.icon} />
-          </a>&nbsp;
+            <img
+              src="/whatsapp.svg"
+              alt="Prof. NOTA v.1.47"
+              className={styles.icon}
+            />
+          </a>
+          &nbsp;
           <a
             href="https://instagram.com/myreceipt"
             target="_blank"
             title="Go visit @MyReceipt, Prof. NOTA's Instagram account."
           >
-            <img src="/instagram.svg" alt="Prof. NOTA v.1.47" className={styles.icon} />
-          </a>&nbsp;
+            <img
+              src="/instagram.svg"
+              alt="Prof. NOTA v.1.47"
+              className={styles.icon}
+            />
+          </a>
+          &nbsp;
         </social>
 
         <div className={styles.grid}>
-          <a
-            href="https://opensea.io/collection/deth-wish-in-vision-trip/drop?tab=mint"
+          {/* <a
+            href="https://opensea.io/collection/deth-wish-in-vision-trip/overview"
             className={styles.card}
             target="_blank"
           >
             <h3>2nd /&#x02C8;deTH ˌwiSH/ (PFP Drop) &rarr;</h3>
-            <p>Visible or not, there is always a /&#x02C8;deTH ˌwiSH/ in their minds. (13_!)</p>
+            <p>
+              Visible or not, there is always a /&#x02C8;deTH ˌwiSH/ in their
+              minds. (13_!)
+            </p>
+          </a>
+
+          <a
+            href="https://opensea.io/collection/deth-wish-in-vision-trip/overview"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>2nd /&#x02C8;deTH ˌwiSH/ (PFP Drop) &rarr;</h3>
+            <p>
+              Visible or not, there is always a /&#x02C8;deTH ˌwiSH/ in their
+              minds. (13_!)
+            </p>
+          </a> */}
+
+          <a
+            href="https://opensea.io/collection/deth-wish-in-vision-trip/overview"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>2nd /&#x02C8;deTH ˌwiSH/ (PFP Drop) &rarr;</h3>
+            <p>
+              Visible or not, there is always a /&#x02C8;deTH ˌwiSH/ in their
+              minds. (13_!)
+            </p>
           </a>
 
           <a
@@ -77,7 +121,10 @@ export default function Home() {
             target="_blank"
           >
             <h3>2nd /&#x02C8;deTH ˌwiSH/ on HeartX &rarr;</h3>
-            <p>An opening artwork released as 1/1 NFT on HeartX just for you. (13_!)</p>
+            <p>
+              An opening artwork released as 1/1 NFT on HeartX just for you.
+              (13_!)
+            </p>
           </a>
 
           <a
@@ -86,7 +133,10 @@ export default function Home() {
             target="_blank"
           >
             <h3>NOTA&#39;s Ordinals &rarr;</h3>
-            <p>47 Prof. NOTA's Ordinals to rule all the 47 avatars of Prof. NOTA. (17_!)</p>
+            <p>
+              47 Prof. NOTA's Ordinals to rule all the 47 avatars of Prof. NOTA.
+              (17_!)
+            </p>
           </a>
 
           <a
@@ -95,30 +145,26 @@ export default function Home() {
             target="_blank"
           >
             <h3>NOTA&#39;s SVGs Free &rarr;</h3>
-            <p>NOTA's SVGs are very limited, only seven items with different colors. (17_!)</p>
-          </a>
-
-          <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/18.-my-receipt-of-xtz"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>MY RECEIPT of XTZ &rarr;</h3>
-            <p>This collection only contains open-edition Tezos NFTs by Prof. NOTA. (18)</p>
-          </a>
-
-          <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/19.-panthera-leo"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Panthera LEO NFTs &rarr;</h3>
             <p>
-              74 NFTs of 1/1 A.I. art generated by Prof. NOTA v.6.0 (6 years old). (19_!)</p>
+              NOTA's SVGs are very limited, only seven items with different
+              colors. (17_!)
+            </p>
           </a>
 
           {/* <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/20.-my-receipt-of-eth"
+            href="https://objkt.com/profile/myreceipt/created?sort=lowest_ask:asc"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Check and Sweep It! &rarr;</h3>
+            <p>
+              Kindly check the floor of my Tezos NFTs and sweep it on the
+              OBJKT.com...
+            </p>
+          </a> */}
+
+          {/* <a
+            href="https://opensea.io/collection/my-receipt-of-eth"
             className={styles.card}
             target="_blank"
           >
@@ -132,7 +178,10 @@ export default function Home() {
             target="_blank"
           >
             <h3>OFFICIALLY UNREVEALED &rarr;</h3>
-            <p>Stay unrevealed, stay under the hood, and always use your pseudonymous mask. (20_!)</p>
+            <p>
+              Stay unrevealed, stay under the hood, and always use your
+              pseudonymous mask. (20_!)
+            </p>
           </a>
 
           <a
@@ -141,9 +190,12 @@ export default function Home() {
             target="_blank"
           >
             <h3>PROF. NOTA&#39;S PFP &rarr;</h3>
-            <p>If you can, please always keep our community safe and beware of scams! (20_!)</p>
+            <p>
+              If you can, please always keep our community safe and beware of
+              scams! (20_!)
+            </p>
           </a>
-          
+
           {/* <a
             href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/22.-bananow-nfts"
             className={styles.card}
@@ -154,58 +206,141 @@ export default function Home() {
           </a> */}
 
           <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/24.-conserve-roty-broi"
+            href="https://foundation.app/collection/panthera-leo"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Panthera LEO NFTs &rarr;</h3>
+            <p>
+              74 NFTs of 1/1 A.I. art generated by Prof. NOTA v.6.0 (6 years
+              old). (19_!)
+            </p>
+          </a>
+
+          <a
+            href="https://foundation.app/collection/conserve-roty-broi"
             className={styles.card}
             target="_blank"
           >
             <h3>CONSERVE ROTY BROI &rarr;</h3>
-            <p>NFTs of physical artworks by various traditional artists in BALI island. (24_!!)</p>
+            <p>
+              NFTs of physical artworks by various traditional artists in BALI
+              island. (24_!!)
+            </p>
           </a>
 
           <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/30.-impromptu"
+            href="https://objkt.com/collection/KT1X3hLhhmLXZh89seeakhCy4bEsnhDhupPc"
             className={styles.card}
             target="_blank"
           >
             <h3>! IMPROMPTU ! NFTs &rarr;</h3>
-            <p>A collection that contains impromptu collaborative work with Humans and A.I. (30_!!)</p>
+            <p>
+              A collection that contains impromptu collaborative work with
+              Humans and A.I. (30_!!)
+            </p>
           </a>
-          
+
           <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/31.-0101-of-prof.-nota"
+            href="https://objkt.com/collection/KT18taVYgQ35rcuCca5QN7uq5EsFxKJyJvRT"
             className={styles.card}
             target="_blank"
           >
             <h3>0101 of Prof. NOTA &rarr;</h3>
-            <p>This 0101 of Prof. NOTA will contain ONE-on-ONE artworks by Prof. NOTA. (31)</p>
+            <p>
+              This 0101 of Prof. NOTA will contain ONE-on-ONE artworks by Prof.
+              NOTA. (31_!)
+            </p>
           </a>
-          
+
           <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/43.-logo-pabrik-roti"
+            href="https://opensea.io/collection/prof-nota"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Prof. NOTA Genesis &rarr;</h3>
+            <p>
+              The genesis work that marks the occurrence of Prof. NOTA on the
+              blockchain. (32)
+            </p>
+          </a>
+
+          <a
+            href="https://exchange.art/series/DEFACE%20SOL/nfts"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>DEFACE SOL &rarr;</h3>
+            <p>
+              Maybe this can describe the faces of those who give up... (34)
+            </p>
+          </a>
+
+          <a
+            href="https://iqraa.straight-line.org/tutor-x-educator/v/tutor-02-get-usdoioi-tokens/"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Get $OiOi Rewards &rarr;</h3>
+            <p>
+              Utility tokens to use within the OiOi Community in Prof. NOTA's
+              Discord. (.1_!)
+            </p>
+          </a>
+
+          <a
+            href="https://opensea.io/collection/the-roty-broi"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>The ROTY BROI &rarr;</h3>
+            <p>
+              1047 unique generative and handpicked #NFTs that live on the
+              Polygon. (41_!!)
+            </p>
+          </a>
+
+          <a
+            href="https://opensea.io/collection/logo-pabrik-roti"
             className={styles.card}
             target="_blank"
           >
             <h3>Breads Factory Logo &rarr;</h3>
-            <p>May you be the lucky ones, you get Her rarest assets. It's up to you! (43_!)</p>
+            <p>
+              May you be the lucky ones, you get Her rarest assets. It's up to
+              you! (43_!)
+            </p>
           </a>
-          
+
           <a
+            href="https://opensea.io/collection/anthropophobia-viruses"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Anthropophobia Viruses &rarr;</h3>
+            <p>
+              Generated abstract scribble layers are made by the 5-year-old son.
+              (44_!!)
+            </p>
+          </a>
+
+          {/* <a
             href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1"
             className={styles.card}
             target="_blank"
           >
             <h3>WAIVFVES #1 Mapping &rarr;</h3>
             <p>All the information about the creations in WAIVFVES #1 of The KING's NFTs.</p>
-          </a>
-          
-          <a
+          </a> */}
+
+          {/* <a
             href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-2"
             className={styles.card}
             target="_blank"
           >
             <h3>WAIVFVES #2 Mapping &rarr;</h3>
             <p>All the information about the creations in WAIVFVES #2 of The KING's NFTs.</p>
-          </a>
+          </a> */}
         </div>
       </main>
 
@@ -215,9 +350,17 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/1.47.svg" alt="Prof. NOTA v.1.47" className={styles.logo} />
-          {" "}© All rights belong to Prof. NOTA ©{" "}
-          <img src="/1.47.svg" alt="Prof. NOTA v.1.47" className={styles.logo} />
+          <img
+            src="/1.47.svg"
+            alt="Prof. NOTA v.1.47"
+            className={styles.logo}
+          />{" "}
+          © All rights belong to Prof. NOTA ©{" "}
+          <img
+            src="/1.47.svg"
+            alt="Prof. NOTA v.1.47"
+            className={styles.logo}
+          />
         </a>
       </footer>
 
