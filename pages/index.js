@@ -301,18 +301,6 @@ export default function Home() {
           </a>
 
           <a
-            href="https://opensea.io/collection/the-roty-broi"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>The ROTY BROI &rarr;</h3>
-            <p>
-              1047 unique generative and handpicked #NFTs that live on the
-              Polygon. (41_!!)
-            </p>
-          </a>
-
-          <a
             href="https://opensea.io/collection/logo-pabrik-roti"
             className={styles.card}
             target="_blank"
@@ -321,18 +309,6 @@ export default function Home() {
             <p>
               May you be the lucky ones, you get Her rarest assets. It's up to
               you! (43_!)
-            </p>
-          </a>
-
-          <a
-            href="https://opensea.io/collection/anthropophobia-viruses"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Anthropophobia Viruses &rarr;</h3>
-            <p>
-              Generated abstract scribble layers are made by the 5-year-old son.
-              (44_!!)
             </p>
           </a>
 
