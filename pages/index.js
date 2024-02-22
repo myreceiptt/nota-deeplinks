@@ -79,13 +79,37 @@ export default function Home() {
         </social>
 
         <div className={styles.grid}>
+          {/* <a href="#" className={styles.card} target="_blank">
+            <h3>Amanda Wives &rarr;</h3>
+            <p>Amanda Wives is too early for now and plese stay tuned! (15_!)</p>
+          </a>
+
+          <a href="#" className={styles.card} target="_blank">
+            <h3>The Melting Land &rarr;</h3>
+            <p>The Melting Land is too early for now and plese stay tuned! (15_!)</p>
+          </a>
+
+          <a href="#" className={styles.card} target="_blank">
+            <h3>ROTY BROI dETH &rarr;</h3>
+            <p>ROTY BROI dETH is too early for now and plese stay tuned! (16_!)</p>
+          </a> */}
+
+          {/* <a
+            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/22.-bananow-nfts"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>BANANOW NFTs &rarr;</h3>
+            <p>NFTs that are used as entry-pass to access the rich of BANANOW.LAND. (22_!)</p>
+          </a> */}
+
           <a
             href="https://exchange.art/series/My%20Low%20Effort/nfts"
             className={styles.card}
             target="_blank"
           >
             <h3>My Low Effort on Exchange Art &rarr;</h3>
-            <p>This collection of my low effort drawing. (09972_!!)</p>
+            <p>This collection of my low effort drawing. (09974_!!)</p>
           </a>
 
           <a
@@ -106,7 +130,7 @@ export default function Home() {
             target="_blank"
           >
             <h3>My Solar System on HeartX &rarr;</h3>
-            <p>Earth is not the center of the universe, OiOi!!!! (09975_!!)</p>
+            <p>Earth is not the center of the universe, OiOi!!!! (09977_!!)</p>
           </a>
 
           <a
@@ -121,30 +145,15 @@ export default function Home() {
             </p>
           </a>
 
-          {/* <a href="#" className={styles.card} target="_blank">
-            <h3>Amanda Wives &rarr;</h3>
-            <p>Amanda Wives is too early for now and plese stay tuned! (15_!)</p>
-          </a>
-
-          <a href="#" className={styles.card} target="_blank">
-            <h3>The Melting Land &rarr;</h3>
-            <p>The Melting Land is too early for now and plese stay tuned! (15_!)</p>
-          </a>
-
-          <a href="#" className={styles.card} target="_blank">
-            <h3>ROTY BROI dETH &rarr;</h3>
-            <p>ROTY BROI dETH is too early for now and plese stay tuned! (16_!)</p>
-          </a> */}
-
           <a
             href="https://generative.xyz/generative/1002498"
             className={styles.card}
             target="_blank"
           >
-            <h3>NOTA&#39;s Ordinals &rarr;</h3>
+            <h3>47 NOTA&#39;s Ordinals &rarr;</h3>
             <p>
-              47 Prof. NOTA's Ordinals to rule all the 47 avatars of Prof. NOTA.
-              (17_!)
+              47 NOTA's Ordinals used to access and control all the Prof. NOTA's
+              avatars. (17_!)
             </p>
           </a>
 
@@ -156,19 +165,7 @@ export default function Home() {
             <h3>NOTA&#39;s SVGs Free &rarr;</h3>
             <p>
               NOTA's SVGs are very limited, only seven items with different
-              colors. (17_!)
-            </p>
-          </a>
-
-          <a
-            href="https://objkt.com/collection/KT18kaJjFbpC8539WaqS29XdBgw6NcrpiSDU"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>MY RECEIPT of XTZ &rarr;</h3>
-            <p>
-              This collection only contains open-edition Tezos NFTs by Prof.
-              NOTA. (18_!)
+              colors. (09978_!!)
             </p>
           </a>
 
@@ -208,27 +205,6 @@ export default function Home() {
             </p>
           </a>
 
-          {/* <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/22.-bananow-nfts"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>BANANOW NFTs &rarr;</h3>
-            <p>NFTs that are used as entry-pass to access the rich of BANANOW.LAND. (22_!)</p>
-          </a> */}
-
-          <a
-            href="https://opensea.io/collection/my-receipt-of-eth"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>MY RECEIPT of ETH &rarr;</h3>
-            <p>
-              This collection only contains open-edition Ethereum NFTs by Prof.
-              NOTA. (20_!)
-            </p>
-          </a>
-
           <a
             href="https://foundation.app/collection/conserve-roty-broi"
             className={styles.card}
@@ -238,18 +214,6 @@ export default function Home() {
             <p>
               NFTs of physical artworks by various traditional artists in BALI
               island. (24_!!)
-            </p>
-          </a>
-
-          <a
-            href="https://objkt.com/collection/KT1X3hLhhmLXZh89seeakhCy4bEsnhDhupPc"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>! IMPROMPTU ! NFTs &rarr;</h3>
-            <p>
-              A collection that contains impromptu collaborative work with
-              Humans and A.I. (30_!!)
             </p>
           </a>
 
@@ -266,19 +230,96 @@ export default function Home() {
           </a>
 
           <a
-            href="https://opensea.io/collection/prof-nota"
+            href="https://objkt.com/collection/KT1X3hLhhmLXZh89seeakhCy4bEsnhDhupPc"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>! IMPROMPTU ! NFTs &rarr;</h3>
+            <p>
+              A collection that contains impromptu collaborative work with
+              Humans and A.I. (30_!!)
+            </p>
+          </a>
+
+          <a
+            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>WAIVFVES #1 Mapping &rarr;</h3>
+            <p>
+              All the information about the creations in WAIVFVES #1 of The KING's NFTs.
+            </p>
+          </a>
+
+          <a
+            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-2"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>WAIVFVES #2 Mapping &rarr;</h3>
+            <p>
+              All the information about the creations in WAIVFVES #2 of The KING's NFTs.
+            </p>
+          </a>
+
+          <a
+            href="https://iqraa.straight-line.org/the-kings/04-the-12th-stage.../the-currencies"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>The Currencies &rarr;</h3>
+            <p>
+              The $HAIL, $OiOi, and $NOTA Fungible Tokens as the utility tokens... (12th Stage)
+            </p>
+          </a>
+
+          <a
+            href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/17.-prof.-notas-ordinals"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Prof. NOTA&#39;s Ordinals &rarr;</h3>
+            <p>
+              Several items that inscribed on some Satoshi using the Ordinals protocol. (17)
+            </p>
+          </a>
+
+          <a
+            href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/18.-my-receipt-of-xtz"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>MY RECEIPT of XTZ &rarr;</h3>
+            <p>
+              This collection only contains open-edition Tezos NFTs by Prof. NOTA. (18)
+            </p>
+          </a>
+
+          <a
+            href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/20.-my-receipt-of-eth"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>MY RECEIPT of ETH &rarr;</h3>
+            <p>
+              This collection only contains open-edition Ethereum NFTs by Prof. NOTA. (20)
+            </p>
+          </a>
+
+          <a
+            href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/32.-prof.-nota-genesis"
             className={styles.card}
             target="_blank"
           >
             <h3>Prof. NOTA Genesis &rarr;</h3>
             <p>
-              The genesis work that marks the occurrence of Prof. NOTA on the
-              blockchain. (32)
+              The genesis work that marks the occurrence of Prof. NOTA on the blockchain. (32)
             </p>
           </a>
 
           <a
-            href="https://exchange.art/series/DEFACE%20SOL/nfts"
+            href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/34.-deface-sol"
             className={styles.card}
             target="_blank"
           >
@@ -287,48 +328,6 @@ export default function Home() {
               Maybe this can describe the faces of those who give up... (34)
             </p>
           </a>
-
-          <a
-            href="https://iqraa.straight-line.org/tutor-x-educator/v/tutor-02-get-usdoioi-tokens/"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Get $OiOi Rewards &rarr;</h3>
-            <p>
-              Utility tokens to use within the OiOi Community in Prof. NOTA's
-              Discord. (.1_!)
-            </p>
-          </a>
-
-          <a
-            href="https://opensea.io/collection/logo-pabrik-roti"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Breads Factory Logo &rarr;</h3>
-            <p>
-              May you be the lucky ones, you get Her rarest assets. It's up to
-              you! (43_!)
-            </p>
-          </a>
-
-          {/* <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>WAIVFVES #1 Mapping &rarr;</h3>
-            <p>All the information about the creations in WAIVFVES #1 of The KING's NFTs.</p>
-          </a> */}
-
-          {/* <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-2"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>WAIVFVES #2 Mapping &rarr;</h3>
-            <p>All the information about the creations in WAIVFVES #2 of The KING's NFTs.</p>
-          </a> */}
         </div>
       </main>
 
