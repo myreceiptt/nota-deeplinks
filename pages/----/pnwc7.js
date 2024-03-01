@@ -11,14 +11,14 @@ export default function Redirect() {
         <link rel="shortcut icon" href="/1.47.png" />
         <meta
           name="description"
-          content="Prof. Nota, sebagai speaker utama, memberikan penjelasan mendalam tentang fundamental Ethereum, mulai dari sejarah hingga smart contracts."
+          content="Sedangkan topik kedua, ‘Solusi Manajemen Organisasi dan Keuangan Masa Depan’, dibahas oleh Yanuar (De-Fi Lead Factor DAO) dan Prof. NOTA (Web3 Developer)."
         />
         <meta name="author" content="! Prof. NOTA !" />
         <meta
           name="keywords"
           content="the melting land, linktree, prof. nota, uncertified professor, my receipt, myreceipt, blockchain, web3, smart contract, retired developer, non-fungible token, nonfungible token, nft, ethereum, polygon, tezos, solana, bitcoin,"
         />
-        <meta httpEquiv="Refresh" content="7; url='https://pintu.co.id/news/61828-pintu-sponsori-event-halo-ethereum#:~:text=Prof.%20Nota%2C%20sebagai%20speaker%20utama%2C%20memberikan%20penjelasan%20mendalam%20tentang%20fundamental%20Ethereum%2C%20mulai%20dari%20sejarah%20hingga%20smart%20contracts.'" />
+        <meta httpEquiv="Refresh" content="7; url='https://event.tempo.co/read/1839650/web3-on-campus-universitas-negeri-surabaya-revolusi-manajemen-keuangan-masa-kini-dengan-blockchain#:~:text=Sedangkan%20topik%20kedua%2C%20%E2%80%98Solusi%20Manajemen%20Organisasi%20dan%20Keuangan%20Masa%20Depan%E2%80%99%2C%20dibahas%20oleh%20Yanuar%20(De%2DFi%20Lead%20Factor%20DAO)%20dan%20Prof.%20Nota%20(Web3%20Developer).'" />
         <meta name="robots" content="noindex,nofollow" />
         
       </Head>
@@ -30,23 +30,23 @@ export default function Redirect() {
 
         <p className={styles.description}>
           Redirecting to:<br />
-          <a href="https://pintu.co.id/news/61828-pintu-sponsori-event-halo-ethereum#:~:text=Prof.%20Nota%2C%20sebagai%20speaker%20utama%2C%20memberikan%20penjelasan%20mendalam%20tentang%20fundamental%20Ethereum%2C%20mulai%20dari%20sejarah%20hingga%20smart%20contracts." target="_blank">
-            Prof. Nota, sebagai speaker utama, memberikan penjelasan mendalam...
+          <a href="https://event.tempo.co/read/1839650/web3-on-campus-universitas-negeri-surabaya-revolusi-manajemen-keuangan-masa-kini-dengan-blockchain#:~:text=Sedangkan%20topik%20kedua%2C%20%E2%80%98Solusi%20Manajemen%20Organisasi%20dan%20Keuangan%20Masa%20Depan%E2%80%99%2C%20dibahas%20oleh%20Yanuar%20(De%2DFi%20Lead%20Factor%20DAO)%20dan%20Prof.%20Nota%20(Web3%20Developer)." target="_blank">
+            ...topik kedua, ‘Solusi Manajemen Organisasi dan Keuangan Masa Depan’, dibahas oleh... Prof. NOTA (Web3 Developer).
           </a>
         </p>
 
         <social>
-          <code>pintu.co.id</code>
+          <code>event.tempo.co</code>
         </social>
 
         <div className={styles.grid}>
           <a
-            href="https://pintu.co.id/news/61828-pintu-sponsori-event-halo-ethereum#:~:text=Prof.%20Nota%2C%20sebagai%20speaker%20utama%2C%20memberikan%20penjelasan%20mendalam%20tentang%20fundamental%20Ethereum%2C%20mulai%20dari%20sejarah%20hingga%20smart%20contracts."
+            href="https://event.tempo.co/read/1839650/web3-on-campus-universitas-negeri-surabaya-revolusi-manajemen-keuangan-masa-kini-dengan-blockchain#:~:text=Sedangkan%20topik%20kedua%2C%20%E2%80%98Solusi%20Manajemen%20Organisasi%20dan%20Keuangan%20Masa%20Depan%E2%80%99%2C%20dibahas%20oleh%20Yanuar%20(De%2DFi%20Lead%20Factor%20DAO)%20dan%20Prof.%20Nota%20(Web3%20Developer)."
             className={styles.card}
             target="_blank"
           >
-            <h3>...Fundamental Ethereum... &rarr;</h3>
-            <p>Prof. Nota, sebagai speaker utama, memberikan penjelasan mendalam tentang fundamental Ethereum, mulai dari sejarah hingga smart contracts.</p>
+            <h3>...Solusi Manajemen Organisasi dan Keuangan... &rarr;</h3>
+            <p>Sedangkan topik kedua, ‘Solusi Manajemen Organisasi dan Keuangan Masa Depan’, dibahas oleh Yanuar (De-Fi Lead Factor DAO) dan Prof. NOTA (Web3 Developer).</p>
           </a>
         </div>
       </main>
