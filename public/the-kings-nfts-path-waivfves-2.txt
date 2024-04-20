@@ -122,6 +122,8 @@ Ethereum $OiOi Fungible Tokens ⛵ <---> Tezos $HAIL Fungible Tokens
 Ethereum $OiOi Fungible Tokens ⛵ <---> Tezos $OiOi Fungible Tokens ⛵
 Ethereum $OiOi Fungible Tokens ⛵ <---> Tezos $NOTA Fungible Tokens
 
+OiOi Decision Power ---> Public Unlock The 12th Stage Access
+
 15. The Melting Land ⛵ ---> Staking Rewards: Ethereum $OiOi Fungible Tokens ⛵
 15. The Melting Land ⛵ ---> Claim Whitelist: 14. Amanda Wives ⛵
 15. The Melting Land ⛵ ---> Claim Whitelist: 12. 3rd /ˈdeTH ˌwiSH/
