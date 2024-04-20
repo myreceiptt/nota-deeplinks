@@ -15,22 +15,30 @@ The King's NFTs - WAIVFVES #1 Mapping
 45. Scribbled Faces ---> Claim Giveaways: 44. Anthropophobia V.
 45. Scribbled Faces ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
 
-44. Anthropophobia V. ---> Claim Giveaways: 41. The ROTY BROI ⛵ 💦
+44. Anthropophobia V. ---> Claim Rewards: Polygon $HAIL Fungible Tokens
+44. Anthropophobia V. ---> Claim Giveaways: 41. The ROTY BROI ⛵
 44. Anthropophobia V. ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    44. Anthropophobia V. ---> Whitelisted for EARLY ACCESS
+44. Anthropophobia V. ---> Whitelisted for EARLY ACCESS
 
-43. Logo Pabrik Roti ---> Claim Giveaways: 41. The ROTY BROI ⛵ 💦
+Polygon $HAIL Fungible Tokens ---> OiOi Utilities Access ~ Degen Shills & ExChange
+Polygon $HAIL Fungible Tokens ---> Claim Rewards: Tezos $HAIL Fungible Tokens
+Polygon $HAIL Fungible Tokens ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
+Polygon $HAIL Fungible Tokens ---> Whitelisted for EARLY ACCESS
+Polygon $HAIL Fungible Tokens <---> Polygon $WMATIC Fungible Tokens
+Polygon $HAIL Fungible Tokens <---> Polygon $WETH Fungible Tokens
+
+43. Logo Pabrik Roti ---> Claim Giveaways: 41. The ROTY BROI ⛵
 43. Logo Pabrik Roti ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    43. Logo Pabrik Roti ---> Whitelisted for EARLY ACCESS
+43. Logo Pabrik Roti ---> Whitelisted for EARLY ACCESS
 
 43.1. ABSart ABSart ---> Nulled
 
 42. Experimental NFTs ---> Claim Giveaways: 44. Anthropophobia V.
 42. Experimental NFTs ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
 
-41. The ROTY BROI ⛵ 💦 ---> Staking Rewards: Polygon $OiOi Fungible Tokens ⛵ 💦 
-41. The ROTY BROI ⛵ 💦 ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    41. The ROTY BROI ⛵ 💦 ---> Whitelisted for EARLY ACCESS
+41. The ROTY BROI ⛵ ---> Staking Rewards: Polygon $OiOi Fungible Tokens ⛵
+41. The ROTY BROI ⛵ ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
+41. The ROTY BROI ⛵ ---> Whitelisted for EARLY ACCESS
 
 40. Archipelago OBJKT ---> Claim Giveaways: 44. Anthropophobia V.
 40. Archipelago OBJKT ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
@@ -58,7 +66,7 @@ The King's NFTs - WAIVFVES #1 Mapping
 34. DEFACE SOL ---> Claim Giveaways: 44. Anthropophobia V.
 34. DEFACE SOL ---> Claim Utilities: Prof. NOTA Full Access
 34. DEFACE SOL ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    34. DEFACE SOL ---> Whitelisted for EARLY ACCESS
+34. DEFACE SOL ---> Whitelisted for EARLY ACCESS
 
 34.1. Manusia Silver Club ---> Claim Giveaways: 44. Anthropophobia V.
 34.1. Manusia Silver Club ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
@@ -70,15 +78,15 @@ The King's NFTs - WAIVFVES #1 Mapping
 32. Prof. NOTA Genesis ---> Claim Utilities: Prof. NOTA Full Access
 32. Prof. NOTA Genesis ---> Claim Utilities: Prof. NOTA Full Control
 32. Prof. NOTA Genesis ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    32. Prof. NOTA Genesis ---> Whitelisted for EARLY ACCESS
+32. Prof. NOTA Genesis ---> Whitelisted for EARLY ACCESS
 
 31. 0 1 0 1 ---> Claim Giveaways: 44. Anthropophobia V.
 31. 0 1 0 1 ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    31. 0 1 0 1 ---> Whitelisted for EARLY ACCESS
+31. 0 1 0 1 ---> Whitelisted for EARLY ACCESS
 
 30. ! IMPROMPTU ! ---> Claim Giveaways: 44. Anthropophobia V.
 30. ! IMPROMPTU ! ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    30. ! IMPROMPTU ! ---> Whitelisted for EARLY ACCESS
+30. ! IMPROMPTU ! ---> Whitelisted for EARLY ACCESS
 
 29. MOCCA Music Player ---> Claim Giveaways: 44. Anthropophobia V.
 29. MOCCA Music Player ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
@@ -100,56 +108,85 @@ The King's NFTs - WAIVFVES #1 Mapping
 25. Guts of Prof. NOTA! ---> Claim Giveaways: 44. Anthropophobia V.
 25. Guts of Prof. NOTA! ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
 
-24. Conserve Roty Broi ⛵ ---> Claim Giveaways: 41. The ROTY BROI ⛵ 💦
-24. Conserve Roty Broi ⛵ ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    24. Conserve Roty Broi ⛵ ---> Whitelisted for EARLY ACCESS
+Polygon $OiOi Fungible Tokens ⛵ ---> OiOi Utilities Access ~ Degen Shills & ExChange
+Polygon $OiOi Fungible Tokens ⛵ ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
+Polygon $OiOi Fungible Tokens ⛵ ---> Whitelisted for EARLY ACCESS
+Polygon $OiOi Fungible Tokens ⛵ <---> Tezos $HAIL Fungible Tokens
+Polygon $OiOi Fungible Tokens ⛵ <---> Tezos $OiOi Fungible Tokens ⛵
+Polygon $OiOi Fungible Tokens ⛵ <---> Tezos $NOTA Fungible Tokens
+Polygon $OiOi Fungible Tokens ⛵ <---> Ethereum $OiOi Fungible Tokens ⛵
 
-Polygon $OiOi Fungible Tokens ---> $OiOi Utilities Access ~ Degen Shills & ExChange
-========    Polygon $OiOi Fungible Tokens ⛵ 💦 <---> Ethereum $OiOi Fungible Tokens ⛵ 💦 <---> Polygon $MATIC Fungible Tokens == 1 $OiOi ~ 747 $MATIC ~ 0.0474 $BTC
-========    Ethereum $OiOi Fungible Tokens ⛵ 💦 <---> Tezos $OiOi Fungible Tokens ⛵ 💦 <---> Ethereum $ETH Fungible Tokens == 1 $OiOi ~ 0.747 $ETH ~ 0.0474 $BTC
-========    Tezos $OiOi Fungible Tokens ⛵ 💦 <---> Polygon $OiOi Fungible Tokens ⛵ 💦 <---> Tezos $XTZ Fungible Tokens == 1 $OiOi ~ 747 $XTZ ~ 0.0474 $BTC
+24. Conserve Roty Broi ⛵ ---> Claim Giveaways: 41. The ROTY BROI ⛵
+24. Conserve Roty Broi ⛵ ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
+24. Conserve Roty Broi ⛵ ---> Whitelisted for EARLY ACCESS
 
 23. Never Available Life ---> Claim Giveaways: 44. Anthropophobia V.
 23. Never Available Life ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
 
-22. BANANOW NFTs ⛵ ---> Claim Giveaways: 41. The ROTY BROI ⛵ 💦
+22. BANANOW NFTs ⛵ ---> Claim Giveaways: 41. The ROTY BROI ⛵
 22. BANANOW NFTs ⛵ ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    22. BANANOW NFTs ⛵ ---> Whitelisted for EARLY ACCESS
+22. BANANOW NFTs ⛵ ---> Whitelisted for EARLY ACCESS
 
-Tezos $OiOi Fungible Tokens ---> $OiOi Utilities Access ~ Degen Shills & ExChange
-========    Polygon $OiOi Fungible Tokens ⛵ 💦 <---> Ethereum $OiOi Fungible Tokens ⛵ 💦 <---> Polygon $MATIC Fungible Tokens == 1 $OiOi ~ 747 $MATIC ~ 0.0474 $BTC
-========    Ethereum $OiOi Fungible Tokens ⛵ 💦 <---> Tezos $OiOi Fungible Tokens ⛵ 💦 <---> Ethereum $ETH Fungible Tokens == 1 $OiOi ~ 0.747 $ETH ~ 0.0474 $BTC
-========    Tezos $OiOi Fungible Tokens ⛵ 💦 <---> Polygon $OiOi Fungible Tokens ⛵ 💦 <---> Tezos $XTZ Fungible Tokens == 1 $OiOi ~ 747 $XTZ ~ 0.0474 $BTC
+Tezos $HAIL Fungible Tokens ---> OiOi Utilities Access ~ Degen Shills & ExChange
+Tezos $HAIL Fungible Tokens ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
+Tezos $HAIL Fungible Tokens ---> Whitelisted for EARLY ACCESS
+Tezos $HAIL Fungible Tokens <---> Tezos $WTZ Fungible Tokens
+Tezos $HAIL Fungible Tokens <---> Tezos $XTZ Fungible Tokens
+Tezos $HAIL Fungible Tokens <---> Tezos $MACAN Fungible Tokens
+Tezos $HAIL Fungible Tokens <---> Tezos $USDt Fungible Tokens
+Tezos $HAIL Fungible Tokens <---> Tezos $TKEY Fungible Tokens
+Tezos $HAIL Fungible Tokens <---> Polygon $OiOi Fungible Tokens ⛵
+Tezos $HAIL Fungible Tokens <---> Tezos $OiOi Fungible Tokens ⛵
+Tezos $HAIL Fungible Tokens <---> Tezos $NOTA Fungible Tokens
+Tezos $HAIL Fungible Tokens <---> Ethereum $OiOi Fungible Tokens ⛵
+
+Tezos $OiOi Fungible Tokens ⛵ ---> OiOi Utilities Access ~ Degen Shills & ExChange
+Tezos $OiOi Fungible Tokens ⛵ ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
+Tezos $OiOi Fungible Tokens ⛵ ---> Whitelisted for EARLY ACCESS
+Tezos $OiOi Fungible Tokens ⛵ <---> Polygon $OiOi Fungible Tokens ⛵
+Tezos $OiOi Fungible Tokens ⛵ <---> Tezos $HAIL Fungible Tokens
+Tezos $OiOi Fungible Tokens ⛵ <---> Tezos $NOTA Fungible Tokens
+Tezos $OiOi Fungible Tokens ⛵ <---> Ethereum $OiOi Fungible Tokens ⛵
+
+Tezos $NOTA Fungible Tokens ---> OiOi Utilities Access ~ OiOi Decision Power
+Tezos $NOTA Fungible Tokens ---> OiOi Utilities Access ~ Degen Shills & ExChange
+Tezos $NOTA Fungible Tokens ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
+Tezos $NOTA Fungible Tokens ---> Whitelisted for EARLY ACCESS
+Tezos $NOTA Fungible Tokens <---> Polygon $OiOi Fungible Tokens ⛵
+Tezos $NOTA Fungible Tokens <---> Tezos $HAIL Fungible Tokens
+Tezos $NOTA Fungible Tokens <---> Tezos $OiOi Fungible Tokens ⛵
+Tezos $NOTA Fungible Tokens <---> Ethereum $OiOi Fungible Tokens ⛵
 
 21. /ˈdeTH ˌwiSH/ ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    21. /ˈdeTH ˌwiSH/ ---> Whitelisted for EARLY ACCESS
+21. /ˈdeTH ˌwiSH/ ---> Whitelisted for EARLY ACCESS
 
 20. MY RECEIPT of ETH ---> Claim Utilities: Prof. NOTA Full Access
 20. MY RECEIPT of ETH ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    20. MY RECEIPT of ETH ---> Whitelisted for EARLY ACCESS
+20. MY RECEIPT of ETH ---> Whitelisted for EARLY ACCESS
 
 19. Panthera LEO ---> Claim Utilities: Written on The King's Office building
 19. Panthera LEO ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    19. Panthera LEO ---> Whitelisted for EARLY ACCESS
+19. Panthera LEO ---> Whitelisted for EARLY ACCESS
 
 18. MY RECEIPT of XTZ ---> Claim Utilities: Prof. NOTA Full Access
 18. MY RECEIPT of XTZ ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    18. MY RECEIPT of XTZ ---> Whitelisted for EARLY ACCESS
+18. MY RECEIPT of XTZ ---> Whitelisted for EARLY ACCESS
 
 17. Prof. NOTA's Ordinals ---> Claim Utilities: Prof. NOTA Full Access
 17. Prof. NOTA's Ordinals ---> Claim Utilities: Prof. NOTA Full Control
 17. Prof. NOTA's Ordinals ---> Claim Whitelist: 16. ROTY BASE dETH ⛵
-========    17. Prof. NOTA's Ordinals ---> Whitelisted for EARLY ACCESS
+17. Prof. NOTA's Ordinals ---> Whitelisted for EARLY ACCESS
 
-========    16. ROTY BASE dETH ⛵ ---> Staking Rewards: Ethereum $OiOi Fungible Tokens ⛵ 💦
-========    16. ROTY BASE dETH ⛵ ---> Claim Whitelist: 15. The Melting Land ⛵
-========    16. ROTY BASE dETH ⛵ ---> Claim Whitelist: 14. Amanda Wives ⛵
-========    16. ROTY BASE dETH ⛵ ---> Whitelisted for EARLY ACCESS
+16. ROTY BASE dETH ⛵ ---> Staking Rewards: Ethereum $OiOi Fungible Tokens ⛵
+16. ROTY BASE dETH ⛵ ---> Whitelisted for EARLY ACCESS
 
-========    Ethereum $OiOi Fungible Tokens ---> $OiOi Utilities Access ~ Degen Shills & ExChange
-========    Polygon $OiOi Fungible Tokens ⛵ 💦 <---> Ethereum $OiOi Fungible Tokens ⛵ 💦 <---> Polygon $MATIC Fungible Tokens == 1 $OiOi ~ 747 $MATIC ~ 0.0474 $BTC
-========    Ethereum $OiOi Fungible Tokens ⛵ 💦 <---> Tezos $OiOi Fungible Tokens ⛵ 💦 <---> Ethereum $ETH Fungible Tokens == 1 $OiOi ~ 0.747 $ETH ~ 0.0474 $BTC
-========    Tezos $OiOi Fungible Tokens ⛵ 💦 <---> Polygon $OiOi Fungible Tokens ⛵ 💦 <---> Tezos $XTZ Fungible Tokens == 1 $OiOi ~ 747 $XTZ ~ 0.0474 $BTC
+Ethereum $OiOi Fungible Tokens ⛵ ---> OiOi Utilities Access ~ OiOi Decision Power
+Ethereum $OiOi Fungible Tokens ⛵ ---> OiOi Utilities Access ~ Degen Shills & ExChange
+Ethereum $OiOi Fungible Tokens ⛵ ---> Whitelisted for EARLY ACCESS
+Ethereum $OiOi Fungible Tokens ⛵ <---> Polygon $OiOi Fungible Tokens ⛵
+Ethereum $OiOi Fungible Tokens ⛵ <---> Tezos $HAIL Fungible Tokens
+Ethereum $OiOi Fungible Tokens ⛵ <---> Tezos $OiOi Fungible Tokens ⛵
+Ethereum $OiOi Fungible Tokens ⛵ <---> Tezos $NOTA Fungible Tokens
 
 That's all!
 See you in The King's NFTs - WAIVFVES #2!
