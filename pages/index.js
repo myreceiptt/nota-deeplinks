@@ -1,5 +1,6 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
       </Head>
 
       <main>
+        <Analytics/>
         <h1 className={styles.title}>
           Deep Links of&nbsp;
           <a href="https://prompt.straight-line.org" target="_blank">

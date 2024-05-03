@@ -1,5 +1,6 @@
 import Head from "next/head";
 import styles from "../../styles/Home.module.css";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function Redirect() {
   return (
@@ -24,6 +25,7 @@ export default function Redirect() {
       </Head>
 
       <main>
+        <Analytics/>
         <h1 className={styles.title}>
           Me for MataKota
         </h1>

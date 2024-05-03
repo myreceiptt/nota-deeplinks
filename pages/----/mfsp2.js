@@ -24,6 +24,7 @@ export default function Redirect() {
       </Head>
 
       <main>
+        <Analytics/>
         <h1 className={styles.title}>
           My Failed Side Project
         </h1>
