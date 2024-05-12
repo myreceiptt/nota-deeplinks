@@ -80,7 +80,7 @@ export default function Home() {
           </a>
           &nbsp;
         </social>
-        <footer className={styles.divider}></footer>
+        <div className={styles.divider}></div>
         <div className={styles.grid}>
           {/* <a href="#" className={styles.card} target="_blank">
             <h3>Amanda Wives &rarr;</h3>

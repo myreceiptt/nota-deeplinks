@@ -64,9 +64,12 @@
 }
 
 .divider {
-  height: 0px;
+  border-top: 1px solid #eaeaea;
+  border-bottom: 1px solid #eaeaea;
   margin-top: 11px;
+  margin-bottom: 11px;
   width: 74%;
+  height: 2px;
 }
 
 .card {
