@@ -80,7 +80,8 @@ export default function Home() {
           </a>
           &nbsp;
         </social>
-
+      </main>
+      <main>
         <div className={styles.grid}>
           {/* <a href="#" className={styles.card} target="_blank">
             <h3>Amanda Wives &rarr;</h3>
@@ -265,6 +266,8 @@ export default function Home() {
             <h3>Huskee by HaloVersa &rarr;</h3>
             <p>Huskee represent character of Siberian Husky living in an NFT world. (#09993)</p>
           </a>
+
+          <></>
 
           <a
             href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1"
