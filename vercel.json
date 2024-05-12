@@ -1,14 +1,18 @@
 // vercel.json
 
-{
-  "redirects": [
-    { "source": "/conservation(.*)", "destination": "https://conservation.endhonesa.com/", "statusCode": 301 }
-  ],
-  
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    }
-  ]
-}
+// {
+//   "redirects": [
+//     {
+//       "source": "/conservation(.*)",
+//       "destination": "https://conservation.endhonesa.com/",
+//       "statusCode": 301
+//     }
+//   ],
+
+//   "rewrites": [
+//     {
+//       "source": "/(.*)",
+//       "destination": "/"
+//     }
+//   ]
+// }
