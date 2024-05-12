@@ -10,6 +10,7 @@ export default function Home() {
         <link rel="icon" href="/1.47.png" />
         <link rel="apple-touch-icon" href="/1.47.png" />
         <link rel="shortcut icon" href="/1.47.png" />
+        <link rel="canonical" href="https://deeplinks.straight-line.org/" />
         <meta
           name="description"
           content="Please note that this link merely provides a list of Prof. NOTA's Deep Links and does not facilitate the access to or use of the Deep Links."
@@ -22,7 +23,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Analytics/>
+        <Analytics />
         <h1 className={styles.title}>
           Deep Links of&nbsp;
           <a href="https://prompt.straight-line.org" target="_blank">
@@ -86,24 +87,43 @@ export default function Home() {
             <p>Amanda Wives is too early for now and plese stay tuned! (15_!)</p>
           </a> */}
 
-          <a href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-2/15.-the-melting-land" className={styles.card} target="_blank">
+          {/* <a href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-2/15.-the-melting-land" className={styles.card} target="_blank">
             <h3>Melting Land on BASE &rarr;</h3>
             <p>Melting Land on BASE is too early for now and plese stay tuned! (15_)</p>
-          </a>
+          </a> */}
 
-          <a href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/16.-roty-base-deth" className={styles.card} target="_blank">
-            <h3>ROTY BASE dETH &rarr;</h3>
-            <p>This is ROTY BASE dETH on the BASE Blockchain. Miss them all! (16_)</p>
-          </a>
-
-          {/* <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/22.-bananow-nfts"
+          <a
+            href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/16.-roty-base-deth"
             className={styles.card}
             target="_blank"
           >
-            <h3>BANANOW NFTs &rarr;</h3>
-            <p>NFTs that are used as entry-pass to access the rich of BANANOW.LAND. (22_!)</p>
-          </a> */}
+            <h3>ROTY BASE dETH &rarr;</h3>
+            <p>
+              This is ROTY BASE dETH on the BASE Blockchain. Miss them all!
+              (16_/#09950)
+            </p>
+          </a>
+
+          <a
+            href="https://opensea.io/collection/what-is-non-fungible-token"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>WHAT IS NFT ???? &rarr;</h3>
+            <p>
+              A collection on BASE blockchain to answer a basic question.
+              (#09951)
+            </p>
+          </a>
+
+          <a
+            href="https://primitives.xyz/token/DhYpx1ZzXavVOmdHLlMKt"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>myreceipt's profile background &rarr;</h3>
+            <p>myreceipt's profile background on primitives.xyz (#09953)</p>
+          </a>
 
           <a
             href="https://exchange.art/series/My%20Low%20Effort/nfts"
@@ -111,7 +131,58 @@ export default function Home() {
             target="_blank"
           >
             <h3>My Low Effort on Exchange Art &rarr;</h3>
-            <p>This collection of my low effort drawing. (09974_!!)</p>
+            <p>This collection of my low effort drawing. (#09958)</p>
+          </a>
+
+          <a
+            href="https://exchange.art/series/FOCKENG%20VURTIX/nfts"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>FOCKENG VURTIX by W_I_N_O_ &rarr;</h3>
+            <p>The artworks revolves around the same style... (#09959)</p>
+          </a>
+
+          <a
+            href="https://zora.co/collect/zora:0x568daab8ac6f7bda4a571403c2cdfae2cf8ef781"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>SIM·i·LAR·i·TY by W_I_N_O_ &rarr;</h3>
+            <p>
+              The similarities between something of different universes.
+              (#09960)
+            </p>
+          </a>
+
+          <a
+            href="https://heartx.art/artwork/2005447"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>My Solar System on HeartX &rarr;</h3>
+            <p>Earth is not the center of the universe, OiOi!!!! (#09961)</p>
+          </a>
+
+          <a
+            href="https://heartx.art/artwork/2003928"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Vision Trip on the HeartX &rarr;</h3>
+            <p>deTH wiSH in Vision Trip on the HeartX... (#09962)</p>
+          </a>
+
+          <a
+            href="https://foundation.app/mint/eth/0x369295d21063d51b76F23A683773963e03CBE742"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Art Meeting by W_I_N_O_ &rarr;</h3>
+            <p>
+              A decentralized gathering taking place in various blockchains.
+              (#09969)
+            </p>
           </a>
 
           <a
@@ -122,7 +193,7 @@ export default function Home() {
             <h3>Panthera LEO NFTs &rarr;</h3>
             <p>
               74 NFTs of 1/1 A.I. art generated by Prof. NOTA v.6.0 (6 years
-              old). (19_!!!)
+              old). (19_)
             </p>
           </a>
 
@@ -134,7 +205,7 @@ export default function Home() {
             <h3>OFFICIALLY UNREVEALED &rarr;</h3>
             <p>
               Stay unrevealed, stay under the hood, and always use your
-              pseudonymous mask. (20_!!!)
+              pseudonymous mask. (20_)
             </p>
           </a>
 
@@ -146,7 +217,19 @@ export default function Home() {
             <h3>PROF. NOTA&#39;S PFP &rarr;</h3>
             <p>
               If you can, please always keep our community safe and beware of
-              scams! (20_!!!)
+              scams! (20_)
+            </p>
+          </a>
+
+          <a
+            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/22.-bananow-nfts"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>BANANOW NFTs &rarr;</h3>
+            <p>
+              NFTs that are used as entry-pass to access the rich of
+              BANANOW.LAND. (22_/#09976)
             </p>
           </a>
 
@@ -158,7 +241,7 @@ export default function Home() {
             <h3>CONSERVE ROTY BROI &rarr;</h3>
             <p>
               NFTs of physical artworks by various traditional artists in BALI
-              island. (24_!!)
+              island. (24_/#09979)
             </p>
           </a>
 
@@ -175,13 +258,23 @@ export default function Home() {
           </a>
 
           <a
+            href="https://opensea.io/collection/huskee-nft"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Huskee by HaloVersa &rarr;</h3>
+            <p>Huskee represent character of Siberian Husky living in an NFT world. (#09993)</p>
+          </a>
+
+          <a
             href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1"
             className={styles.card}
             target="_blank"
           >
             <h3>WAIVFVES #1 Mapping &rarr;</h3>
             <p>
-              All the information about the creations in WAIVFVES #1 of The KING's NFTs.
+              All the information about the creations in WAIVFVES #1 of The
+              KING's NFTs.
             </p>
           </a>
 
@@ -192,7 +285,8 @@ export default function Home() {
           >
             <h3>WAIVFVES #2 Mapping &rarr;</h3>
             <p>
-              All the information about the creations in WAIVFVES #2 of The KING's NFTs.
+              All the information about the creations in WAIVFVES #2 of The
+              KING's NFTs.
             </p>
           </a>
 
@@ -203,7 +297,8 @@ export default function Home() {
           >
             <h3>The Currencies &rarr;</h3>
             <p>
-              The $HAIL, $OiOi, and $NOTA Fungible Tokens as the utility tokens... (12th Stage)
+              The $HAIL, $OiOi, and $NOTA Fungible Tokens as the utility
+              tokens... (12th Stage)
             </p>
           </a>
 
@@ -214,7 +309,8 @@ export default function Home() {
           >
             <h3>Prof. NOTA&#39;s Ordinals &rarr;</h3>
             <p>
-              Several items that inscribed on some Satoshi using the Ordinals protocol. (17)
+              Several items that inscribed on some Satoshi using the Ordinals
+              protocol. (17)
             </p>
           </a>
 
@@ -225,7 +321,8 @@ export default function Home() {
           >
             <h3>MY RECEIPT of XTZ &rarr;</h3>
             <p>
-              This collection only contains open-edition Tezos NFTs by Prof. NOTA. (18)
+              This collection only contains open-edition Tezos NFTs by Prof.
+              NOTA. (18)
             </p>
           </a>
 
@@ -236,7 +333,8 @@ export default function Home() {
           >
             <h3>MY RECEIPT of ETH &rarr;</h3>
             <p>
-              This collection only contains open-edition Ethereum NFTs by Prof. NOTA. (20)
+              This collection only contains open-edition Ethereum NFTs by Prof.
+              NOTA. (20)
             </p>
           </a>
 
@@ -247,7 +345,8 @@ export default function Home() {
           >
             <h3>Prof. NOTA Genesis &rarr;</h3>
             <p>
-              The genesis work that marks the occurrence of Prof. NOTA on the blockchain. (32)
+              The genesis work that marks the occurrence of Prof. NOTA on the
+              blockchain. (32)
             </p>
           </a>
 
