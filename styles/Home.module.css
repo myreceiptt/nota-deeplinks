@@ -63,6 +63,12 @@
   margin-top: 1.47rem;
 }
 
+.divider {
+  height: 0px;
+  margin-top: 11px;
+  width: 74%;
+}
+
 .card {
   margin: 0.47rem;
   flex-basis: 74%;
