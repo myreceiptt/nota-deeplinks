@@ -81,6 +81,7 @@ export default function Home() {
           &nbsp;
         </social>
       </main>
+      <footer></footer>
       <main>
         <div className={styles.grid}>
           {/* <a href="#" className={styles.card} target="_blank">
