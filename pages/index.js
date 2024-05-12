@@ -266,7 +266,9 @@ export default function Home() {
             <p>Huskee represent character of Siberian Husky living in an NFT world. (#09993)</p>
           </a>
 
-          <></>
+        </div>
+        <div className={styles.divider}></div>
+        <div className={styles.grid}>
 
           <a
             href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1"
