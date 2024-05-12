@@ -240,7 +240,7 @@ export default function Home() {
           >
             <h3>CONSERVE ROTY BROI &rarr;</h3>
             <p>
-              NFTs of physical artworks by various traditional artists in BALI
+              Physical artworks by various traditional artists in BALI
               island. (24_/#09979)
             </p>
           </a>
