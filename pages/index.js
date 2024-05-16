@@ -100,7 +100,19 @@ export default function Home() {
             <h3>ROTY BASE dETH &rarr;</h3>
             <p>
               This is ROTY BASE dETH on the BASE Blockchain. Miss them all!
-              (16_/#09950)
+              (16_/#09949)
+            </p>
+          </a>
+
+          <a
+            href="https://zora.co/collect/base:0x47722b411246cef7b8527088ee12e74bea3034c4"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>FOOCKANG FUTIGES by W_I_N_O_ &rarr;</h3>
+            <p>
+              Please collect it and keep it. I beg you. So W_I_N_O_ can create more.
+              (#09950)
             </p>
           </a>
 
@@ -141,36 +153,6 @@ export default function Home() {
           >
             <h3>FOCKENG VURTIX by W_I_N_O_ &rarr;</h3>
             <p>The artworks revolves around the same style... (#09959)</p>
-          </a>
-
-          <a
-            href="https://zora.co/collect/zora:0x568daab8ac6f7bda4a571403c2cdfae2cf8ef781"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>SIM·i·LAR·i·TY by W_I_N_O_ &rarr;</h3>
-            <p>
-              The similarities between something of different universes.
-              (#09960)
-            </p>
-          </a>
-
-          <a
-            href="https://heartx.art/artwork/2005447"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>My Solar System on HeartX &rarr;</h3>
-            <p>Earth is not the center of the universe, OiOi!!!! (#09961)</p>
-          </a>
-
-          <a
-            href="https://heartx.art/artwork/2003928"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Vision Trip on the HeartX &rarr;</h3>
-            <p>deTH wiSH in Vision Trip on the HeartX... (#09962)</p>
           </a>
 
           <a
