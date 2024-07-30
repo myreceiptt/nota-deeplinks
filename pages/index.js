@@ -100,19 +100,19 @@ export default function Home() {
             <h3>ROTY BASE dETH &rarr;</h3>
             <p>
               This is ROTY BASE dETH on the BASE Blockchain. Miss them all!
-              (16_/#09949)
+              (16_/#09944)
             </p>
           </a>
 
           <a
-            href="https://zora.co/collect/base:0x47722b411246cef7b8527088ee12e74bea3034c4"
+            href="https://foundation.app/collection/ff-337c"
             className={styles.card}
             target="_blank"
           >
             <h3>FOOCKANG FUTIGES by W_I_N_O_ &rarr;</h3>
             <p>
               Please collect it and keep it. I beg you. So W_I_N_O_ can create more.
-              (#09950)
+              (#09945)
             </p>
           </a>
 
@@ -211,7 +211,7 @@ export default function Home() {
             <h3>BANANOW NFTs &rarr;</h3>
             <p>
               NFTs that are used as entry-pass to access the rich of
-              BANANOW.LAND. (22_/#09976)
+              BANANOW.LAND. (22_/#09946)
             </p>
           </a>
 
