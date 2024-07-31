@@ -117,6 +117,45 @@ export default function Home() {
           </a>
 
           <a
+            href="https://heads.bananow.land/"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>BANANOW BASED NFTs &rarr;</h3>
+            <p>
+              NFTs that are used as entry-pass to access the rich of
+              BANANOW.LAND. (22_/#09946)
+            </p>
+          </a>
+
+          <a
+            href="https://opensea.io/collection/built-not-bought"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Built Not Bought &rarr;</h3>
+            <p>Usually written with the abbreviation BNB... (#09947)</p>
+          </a>
+
+          <a
+            href="https://opensea.io/collection/be-back-never"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Be Back Never &rarr;</h3>
+            <p>The most common definition for BBN... (#09948)</p>
+          </a>
+
+          <a
+            href="https://opensea.io/collection/brand-new-no-box"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Brand New No Box &rarr;</h3>
+            <p>A brand-new, unused, and unworn item... (#09949)</p>
+          </a>
+
+          <a
             href="https://opensea.io/collection/what-is-non-fungible-token"
             className={styles.card}
             target="_blank"
@@ -144,15 +183,6 @@ export default function Home() {
           >
             <h3>My Low Effort on Exchange Art &rarr;</h3>
             <p>This collection of my low effort drawing. (#09958)</p>
-          </a>
-
-          <a
-            href="https://exchange.art/series/FOCKENG%20VURTIX/nfts"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>FOCKENG VURTIX by W_I_N_O_ &rarr;</h3>
-            <p>The artworks revolves around the same style... (#09959)</p>
           </a>
 
           <a
@@ -200,18 +230,6 @@ export default function Home() {
             <p>
               If you can, please always keep our community safe and beware of
               scams! (20_)
-            </p>
-          </a>
-
-          <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/22.-bananow-nfts"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>BANANOW NFTs &rarr;</h3>
-            <p>
-              NFTs that are used as entry-pass to access the rich of
-              BANANOW.LAND. (22_/#09946)
             </p>
           </a>
 
