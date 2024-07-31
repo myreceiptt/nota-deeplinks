@@ -143,7 +143,7 @@ export default function Home() {
             target="_blank"
           >
             <h3>Be Back Never &rarr;</h3>
-            <p>The most common definition for BBN... (#09948)</p>
+            <p>The most common definition for BBN on Social Media... (#09948)</p>
           </a>
 
           <a
