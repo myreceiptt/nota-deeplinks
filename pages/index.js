@@ -35,7 +35,7 @@ export default function Home() {
         <p className={styles.description}>
           The Initiator of{" "}
           <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1/48.-init...-_"
+            href="https://iqraa.straight-line.org/the-kings/03-the-story.../theres-still-a-chance."
             target="_blank"
           >
             The Melting Land
@@ -168,12 +168,12 @@ export default function Home() {
           </a>
 
           <a
-            href="https://primitives.xyz/token/DhYpx1ZzXavVOmdHLlMKt"
+            href="https://primitives.xyz/myreceipt/gallery/543dd782-5a3a-4bd5-a6c8-a6627ba874c9"
             className={styles.card}
             target="_blank"
           >
-            <h3>myreceipt's profile background &rarr;</h3>
-            <p>myreceipt's profile background on primitives.xyz (#09953)</p>
+            <h3>Prof. NOTA's in Any Versions &rarr;</h3>
+            <p>Gallery Prof. NOTA's in Any Versions on primitives.xyz (#09952)</p>
           </a>
 
           <a
