@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/1.47.png" />
         <link rel="apple-touch-icon" href="/1.47.png" />
         <link rel="shortcut icon" href="/1.47.png" />
-        <link rel="canonical" href="https://deeplinks.straight-line.org/" />
+        <link rel="canonical" href="https://deeplink.endhonesa.com/" />
         <meta
           name="description"
           content="Please note that this link merely provides a list of Prof. NOTA's Deep Links and does not facilitate the access to or use of the Deep Links."
@@ -26,7 +26,7 @@ export default function Home() {
         <Analytics />
         <h1 className={styles.title}>
           Deep Links of&nbsp;
-          <a href="https://prompt.straight-line.org" target="_blank">
+          <a href="https://prompt.endhonesa.com" target="_blank">
             Prof. NOTA
           </a>{" "}
           {/* <code>deep_links</code> */}
@@ -35,9 +35,8 @@ export default function Home() {
         <p className={styles.description}>
           The Initiator of{" "}
           <a
-            href="https://iqraa.straight-line.org/the-kings/03-the-story.../theres-still-a-chance."
-            target="_blank"
-          >
+            href="https://docs.endhonesa.com/03-the-story.../theres-still-a-chance."
+            target="_blank">
             The Melting Land
           </a>
         </p>
@@ -46,8 +45,7 @@ export default function Home() {
           <a
             href="https://twitter.com/MyReceiptTT"
             target="_blank"
-            title="Go visit @MyReceiptTT, Prof. NOTA's Twitter account."
-          >
+            title="Go visit @MyReceiptTT, Prof. NOTA's Twitter account.">
             <img
               src="/twitter.svg"
               alt="Prof. NOTA v.1.47"
@@ -58,8 +56,7 @@ export default function Home() {
           <a
             href="https://api.whatsapp.com/send?phone=628563160756&amp;text=Hi%20Prof.%20NOTA!!!!%0A%F0%9F%A4%AB%F0%9F%A4%AB%F0%9F%A4%AB%F0%9F%A4%AB%20Shush%2C%20I%20need%20to%20talk%20with%20you!%20Okay!"
             target="_blank"
-            title="Go contact Prof. NOTA's Whatsapp account."
-          >
+            title="Go contact Prof. NOTA's Whatsapp account.">
             <img
               src="/whatsapp.svg"
               alt="Prof. NOTA v.1.47"
@@ -70,8 +67,7 @@ export default function Home() {
           <a
             href="https://instagram.com/myreceipt"
             target="_blank"
-            title="Go visit @MyReceipt, Prof. NOTA's Instagram account."
-          >
+            title="Go visit @MyReceipt, Prof. NOTA's Instagram account.">
             <img
               src="/instagram.svg"
               alt="Prof. NOTA v.1.47"
@@ -92,47 +88,40 @@ export default function Home() {
             <p>Melting Land on BASE is too early for now and plese stay tuned! (15_)</p>
           </a> */}
 
-          <a
+          {/* <a
             href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/16.-roty-base-deth"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>ROTY BASE dETH &rarr;</h3>
             <p>
               This is ROTY BASE dETH on the BASE Blockchain. Miss them all!
               (16_/#09944)
             </p>
+          </a> */}
+
+          <a
+            href="https://rodeo.club/@myreceipt/posts"
+            className={styles.card}
+            target="_blank">
+            <h3>Prof. NOTA on Rodeo &rarr;</h3>
+            <p>Gallery Prof. NOTA's on Rodeo (rodeo.club). (#09936)</p>
           </a>
 
           <a
-            href="https://foundation.app/collection/ff-337c"
+            href="https://objkt.com/collections/KT1TVawuuBjxzUWj4kY9su4QpU4bRJXNXaga"
             className={styles.card}
-            target="_blank"
-          >
-            <h3>FOOCKANG FUTIGES by W_I_N_O_ &rarr;</h3>
+            target="_blank">
+            <h3>dw BASIC 4.11 &rarr;</h3>
             <p>
-              Please collect it and keep it. I beg you. So W_I_N_O_ can create more.
-              (#09945)
-            </p>
-          </a>
-
-          <a
-            href="https://heads.bananow.land/"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>BANANOW BASED NFTs &rarr;</h3>
-            <p>
-              NFTs that are used as entry-pass to access the rich of
-              BANANOW.LAND. (22_/#09946)
+              NFTs with on-chain image/svg+xml as the assets created using a
+              code editor. (#09943)
             </p>
           </a>
 
           <a
             href="https://opensea.io/collection/built-not-bought"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>Built Not Bought &rarr;</h3>
             <p>Usually written with the abbreviation BNB... (#09947)</p>
           </a>
@@ -140,26 +129,17 @@ export default function Home() {
           <a
             href="https://opensea.io/collection/be-back-never"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>Be Back Never &rarr;</h3>
-            <p>The most common definition for BBN on social media... (#09948)</p>
-          </a>
-
-          <a
-            href="https://opensea.io/collection/brand-new-no-box"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Brand New No Box &rarr;</h3>
-            <p>A brand-new, unused, and unworn item... (#09949)</p>
+            <p>
+              The most common definition for BBN on social media... (#09948)
+            </p>
           </a>
 
           <a
             href="https://opensea.io/collection/what-is-non-fungible-token"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>WHAT IS NFT ???? &rarr;</h3>
             <p>
               A collection on BASE blockchain to answer a basic question.
@@ -170,17 +150,17 @@ export default function Home() {
           <a
             href="https://primitives.xyz/myreceipt/gallery/543dd782-5a3a-4bd5-a6c8-a6627ba874c9"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>Prof. NOTA's in Any Versions &rarr;</h3>
-            <p>Gallery Prof. NOTA's in Any Versions on primitives.xyz (#09952)</p>
+            <p>
+              Gallery Prof. NOTA's in Any Versions on primitives.xyz (#09952)
+            </p>
           </a>
 
           <a
             href="https://exchange.art/series/My%20Low%20Effort/nfts"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>My Low Effort on Exchange Art &rarr;</h3>
             <p>This collection of my low effort drawing. (#09958)</p>
           </a>
@@ -188,8 +168,7 @@ export default function Home() {
           <a
             href="https://foundation.app/mint/eth/0x369295d21063d51b76F23A683773963e03CBE742"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>Art Meeting by W_I_N_O_ &rarr;</h3>
             <p>
               A decentralized gathering taking place in various blockchains.
@@ -200,8 +179,7 @@ export default function Home() {
           <a
             href="https://foundation.app/collection/panthera-leo"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>Panthera LEO NFTs &rarr;</h3>
             <p>
               74 NFTs of 1/1 A.I. art generated by Prof. NOTA v.6.0 (6 years
@@ -212,8 +190,7 @@ export default function Home() {
           <a
             href="https://app.manifold.xyz/c/unrevealed"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>OFFICIALLY UNREVEALED &rarr;</h3>
             <p>
               Stay unrevealed, stay under the hood, and always use your
@@ -224,8 +201,7 @@ export default function Home() {
           <a
             href="https://app.manifold.xyz/c/beware-of-scams"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>PROF. NOTA&#39;S PFP &rarr;</h3>
             <p>
               If you can, please always keep our community safe and beware of
@@ -234,47 +210,22 @@ export default function Home() {
           </a>
 
           <a
-            href="https://foundation.app/collection/conserve-roty-broi"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>CONSERVE ROTY BROI &rarr;</h3>
-            <p>
-              Physical artworks by various traditional artists in BALI
-              island. (24_/#09979)
-            </p>
-          </a>
-
-          <a
             href="https://objkt.com/collection/KT18taVYgQ35rcuCca5QN7uq5EsFxKJyJvRT"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>0101 of Prof. NOTA &rarr;</h3>
             <p>
               This 0101 of Prof. NOTA will contain ONE-on-ONE artworks by Prof.
               NOTA. (31_!)
             </p>
           </a>
-
-          <a
-            href="https://opensea.io/collection/huskee-nft"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Huskee by HaloVersa &rarr;</h3>
-            <p>Huskee represent character of Siberian Husky living in an NFT world. (#09993)</p>
-          </a>
-
         </div>
         <div className={styles.divider}></div>
         <div className={styles.grid}>
-
           <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-1"
+            href="https://docs.endhonesa.com/02-the-creations.../waivfves-1"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>WAIVFVES #1 Mapping &rarr;</h3>
             <p>
               All the information about the creations in WAIVFVES #1 of The
@@ -283,10 +234,9 @@ export default function Home() {
           </a>
 
           <a
-            href="https://iqraa.straight-line.org/the-kings-nfts/02-the-creations.../waivfves-2"
+            href="https://docs.endhonesa.com/02-the-creations.../waivfves-2"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>WAIVFVES #2 Mapping &rarr;</h3>
             <p>
               All the information about the creations in WAIVFVES #2 of The
@@ -295,10 +245,9 @@ export default function Home() {
           </a>
 
           <a
-            href="https://iqraa.straight-line.org/the-kings/04-the-12th-stage.../the-currencies"
+            href="https://docs.endhonesa.com/04-the-12th-stage.../the-currencies"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>The Currencies &rarr;</h3>
             <p>
               The $HAIL, $OiOi, and $NOTA Fungible Tokens as the utility
@@ -307,10 +256,9 @@ export default function Home() {
           </a>
 
           <a
-            href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/17.-prof.-notas-ordinals"
+            href="https://docs.endhonesa.com/02-the-creations.../waivfves-1/17.-prof.-notas-ordinals-0-1"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>Prof. NOTA&#39;s Ordinals &rarr;</h3>
             <p>
               Several items that inscribed on some Satoshi using the Ordinals
@@ -319,10 +267,9 @@ export default function Home() {
           </a>
 
           <a
-            href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/18.-my-receipt-of-xtz"
+            href="https://docs.endhonesa.com/02-the-creations.../waivfves-1/18.-my-receipt-of-xtz-0"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>MY RECEIPT of XTZ &rarr;</h3>
             <p>
               This collection only contains open-edition Tezos NFTs by Prof.
@@ -331,10 +278,9 @@ export default function Home() {
           </a>
 
           <a
-            href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/20.-my-receipt-of-eth"
+            href="https://docs.endhonesa.com/02-the-creations.../waivfves-1/20.-my-receipt-of-eth-0"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>MY RECEIPT of ETH &rarr;</h3>
             <p>
               This collection only contains open-edition Ethereum NFTs by Prof.
@@ -343,10 +289,9 @@ export default function Home() {
           </a>
 
           <a
-            href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/32.-prof.-nota-genesis"
+            href="https://docs.endhonesa.com/02-the-creations.../waivfves-1/32.-prof.-nota-genesis-0-1"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>Prof. NOTA Genesis &rarr;</h3>
             <p>
               The genesis work that marks the occurrence of Prof. NOTA on the
@@ -355,10 +300,9 @@ export default function Home() {
           </a>
 
           <a
-            href="https://iqraa.straight-line.org/the-kings/02-the-creations.../waivfves-1/34.-deface-sol"
+            href="https://docs.endhonesa.com/02-the-creations.../waivfves-1/34.-deface-sol-0"
             className={styles.card}
-            target="_blank"
-          >
+            target="_blank">
             <h3>DEFACE SOL &rarr;</h3>
             <p>
               Maybe this can describe the faces of those who give up... (34)
@@ -369,10 +313,9 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://iqraa.straight-line.org/"
+          href="https://docs.endhonesa.com/04-the-12th-stage.../professor-nota"
           target="_blank"
-          rel="noopener noreferrer"
-        >
+          rel="noopener noreferrer">
           <img
             src="/1.47.svg"
             alt="Prof. NOTA v.1.47"
