@@ -119,45 +119,6 @@ export default function Home() {
           </a>
 
           <a
-            href="https://opensea.io/collection/built-not-bought"
-            className={styles.card}
-            target="_blank">
-            <h3>Built Not Bought &rarr;</h3>
-            <p>Usually written with the abbreviation BNB... (#09947)</p>
-          </a>
-
-          <a
-            href="https://opensea.io/collection/be-back-never"
-            className={styles.card}
-            target="_blank">
-            <h3>Be Back Never &rarr;</h3>
-            <p>
-              The most common definition for BBN on social media... (#09948)
-            </p>
-          </a>
-
-          <a
-            href="https://opensea.io/collection/what-is-non-fungible-token"
-            className={styles.card}
-            target="_blank">
-            <h3>WHAT IS NFT ???? &rarr;</h3>
-            <p>
-              A collection on BASE blockchain to answer a basic question.
-              (#09951)
-            </p>
-          </a>
-
-          <a
-            href="https://primitives.xyz/myreceipt/gallery/543dd782-5a3a-4bd5-a6c8-a6627ba874c9"
-            className={styles.card}
-            target="_blank">
-            <h3>Prof. NOTA's in Any Versions &rarr;</h3>
-            <p>
-              Gallery Prof. NOTA's in Any Versions on primitives.xyz (#09952)
-            </p>
-          </a>
-
-          <a
             href="https://exchange.art/series/My%20Low%20Effort/nfts"
             className={styles.card}
             target="_blank">
