@@ -1,4 +1,7 @@
+# Prof. NOTA's Deep Links
+
 ---
+
 ---
 
 ## Maintenance by Prof. NOTA Evergreen Standard
@@ -85,11 +88,10 @@ Examples:
 Please note that this link merely provides a list of Prof. NOTA's Deep Links and does not facilitate the access to or use of the Deep Links.
 
 > Regards
-> 
+>
 > [Prof. NOTA](https://deeplink.endhonesa.com/)
-> 
+>
 > [init.straight-line.org](https://init.endhonesa.com/)
-> 
 
 <!--
 **myreceiptt/myreceiptt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on Prof. NOTA's GitHub profile.
