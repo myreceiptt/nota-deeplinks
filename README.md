@@ -16,7 +16,7 @@ This repo is intended to stay evergreen while remaining production-safe.
 
 - Package manager:
 
-  - **Yarn** (lockfile: `yarn.lock`)
+  - **Yarn** (lockfile: `yarn.lock`, local `.yarn/releases`)
   - ~~PNPM (lockfile: `pnpm-lock.yaml`)~~
   - ~~NPM (lockfile: `package-lock.json`)~~
 
@@ -31,13 +31,13 @@ This repo is intended to stay evergreen while remaining production-safe.
 
 1. Check what’s outdated:
 
-   - `yarn outdated`
+   - `yarn up -i` (interactive report)
    - ~~pnpm outdated~~
    - ~~npm outdated~~
 
 2. Upgrade safe (patch/minor) versions:
 
-   - `yarn upgrade`
+   - `yarn up -i` (apply non-major only)
    - ~~pnpm update~~
    - ~~npm update~~
    - or upgrade specific packages shown as non-major
