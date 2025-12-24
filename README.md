@@ -44,7 +44,7 @@ This repo is intended to stay evergreen while remaining production-safe.
 
 3. Verify:
 
-   - `yarn audit --level moderate`
+   - `yarn npm audit --severity moderate`
    - ~~pnpm audit~~
    - ~~npm audit~~
    - `yarn build`
