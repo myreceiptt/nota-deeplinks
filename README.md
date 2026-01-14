@@ -91,7 +91,7 @@ Please note that this link merely provides a list of Prof. NOTA's Deep Links and
 >
 > [Prof. NOTA](https://deeplink.endhonesa.com/)
 >
-> [init.straight-line.org](https://init.endhonesa.com/)
+> [init.endhonesa.com](https://init.endhonesa.com/)
 
 <!--
 **myreceiptt/myreceiptt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on Prof. NOTA's GitHub profile.

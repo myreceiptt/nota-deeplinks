@@ -75,7 +75,7 @@ export default function Redirect() {
 
       <footer>
         <a
-          href="https://iqraa.straight-line.org/"
+          href="https://docs.endhonesa.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
