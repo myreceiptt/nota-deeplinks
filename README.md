@@ -1,5 +1,26 @@
 # Prof. NOTA's Deep Links
 
+## About This Repo
+
+`nota-deeplinks` is a lightweight, production-deployed directory of Prof. NOTA’s deep links. It provides a stable, fast page that organizes and publishes curated destinations (projects, profiles, and entry points) in a way that is easy for humans to browse and easy for agents/tools to parse.
+
+### Purpose & Scope
+
+- Provide a single canonical landing page for Prof. NOTA’s deep links.
+- Keep URLs organized, predictable, and deployment-safe (static-first Next.js output).
+- Minimize complexity: this repo is intentionally focused on link routing and presentation.
+
+### Technology
+
+- Framework: **Next.js** + **React**
+- Tooling: **Yarn (modern)**, **ESLint**
+- Deployment: **Vercel**
+
+### How We Maintain Quality
+
+- We follow **Prof. NOTA Evergreen Standard**: safe monthly updates and scheduled quarterly majors, keeping Node version for Vercel compatibility.
+- We validate changes with audit + lint + build, and document runs under `EVERGREENING/completion-log-*.md`.
+
 ---
 
 ---
